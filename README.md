@@ -1,1 +1,4 @@
 # TechnicalAnalysis
+![Yellow Green Illustration Creative Portofolio Presentation  (6)](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/4da38ca6-cfc4-4ba2-a7ff-ec6461be0f01)
+![Yellow Green Illustration Creative Portofolio Presentation  (7)](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/83d306b0-05dc-48f7-84c5-dda25c4d5a0e)
+![Yellow Green Illustration Creative Portofolio Presentation  (9)](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/7b3ca019-f2d1-4993-b962-a6b158e737ec)
