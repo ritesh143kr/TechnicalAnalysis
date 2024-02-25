@@ -11,7 +11,10 @@
       "Text2":"Hammer Candlestick\n",
       "bold3":"bold",
       "bold4":"",
-      "Para2":"The hammer candlestick is a pattern that is typically used by traders to identify potential reversals trends in price action. The hammer candlestick is formed when the price opens near its high, falls significantly during the trading session, and then rallies to close near its opening price.",
+      "Para2":`The hammer candlestick is a pattern that is typically used by traders to identify 
+               potential reversals trends in price action. The hammer candlestick is formed when 
+               the price opens near its high, falls significantly during the trading session, 
+               and then rallies to close near its opening price.`,
       "Text3":"Avoiding traps:-  Steer clear of overvalued stocks destined for losses.\n",
       "bold5":"",
       "bold6":"",
