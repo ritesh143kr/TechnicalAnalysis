@@ -43,7 +43,7 @@
       "bold2":"",
       "Para1":"A trendline is a straight line drawn on a chart that connects multiple data points, typically representing price highs or lows, over a given period. It helps visualize the overall trend in the market and predict future price movements.",
       "Image1":"",
-      "Text2":"Purpose\nIdentify the direction of the trend (upward, downward, or sideways)\nGauge support and resistance levels\nPotential price reversals: A break above a resistance line or below a support line might suggest a shift in the trend.\n",
+      "Text2":"Purpose-\n\n1.Identify the direction of the trend (upward, downward, or sideways).\n\n2.Gauge support and resistance levels.\n\n3.Potential price reversals: A break above a resistance line or below a support line might suggest a shift in the trend.\n\n",
       "bold3":"",
       "bold4":"",
       "Para2":"Drawing Trendlines\nYou'll typically need at least two or three price points to draw a valid trendline.\nThe line should connect the significant highs (for uptrends) or lows (for downtrends) with a reasonable degree of accuracy.\nThe more times the price touches the trendline without breaking through, the stronger the support or resistance level is considered.\n",
