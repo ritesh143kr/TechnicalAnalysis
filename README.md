@@ -11,6 +11,9 @@
 ![ShootingStarCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/db44824f-6977-4efb-95a8-f5158f848b40)
 
 #DoubleCandlestick
+![PiercingCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/4a15955c-b1d6-40e4-9658-26355a5d99e9)
+![DarkCloludCoverCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/65e7ae83-7592-4544-959e-2c2e2f66e389)
+
 
 
 
