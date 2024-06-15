@@ -15,7 +15,21 @@
 ![DarkCloludCoverCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/65e7ae83-7592-4544-959e-2c2e2f66e389)
 ![TweezerBottomCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/0ace9c37-c617-4221-ae19-91d74ee5adb2)
 ![TweezerTopCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/298321a4-4093-4651-9ed6-7fbe7f0def5d)
+![BullishHaramiCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/92344616-9555-4cc5-b845-a2b5c29439ef)
+![BearishHaramiCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/0f664a5b-fb23-480c-bc8b-afb8e430ed86)
+![BullishEngulfingCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/b1facaa9-e255-47b2-a421-e5fa84afcfc6)
+![BearishEngulfingCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/7e8069a4-895c-4771-a012-b2d018bbe636)
+![BullishHaramiCrossCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/72a6608b-0292-4298-8fd6-71660e9723fe)
+![BearishHaramiCrossCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/7d397834-5aed-4b6a-808e-2038b769f3b0)
 
 #TripleCandlestick
+
+
+
+
+
+
+
+
 
 
