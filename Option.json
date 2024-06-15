@@ -6,12 +6,12 @@
       "Text1":"Introduction",
       "bold1":"bold",
       "bold2":"",
-      "Para1":"Buying a call option,or going long is a strategy used when a trader believes the market will go up in the near timeframe.\n\nIllustration\nE.g Nifty is currently trading @23000.Trader is expecting the markets to rise from these levels.So buying Call Option of Nifty having Strike 23000 @premium 100 will benefit the trader when Nifty goes above 23000.",
+      "Para1":"Buying a call option,or going long is a strategy used when a trader believes the market will go up in the near timeframe.\n\nIllustration\nE.g Nifty is currently trading @23000.Trader is expecting the markets to rise from these levels.So buying Call Option of Nifty having Strike 23000 @premium 100 will benefit the trader when Nifty goes above 23000.\n",
       "Image1":"https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/fc811e03-93e9-4b91-bd80-189c11a8692d",
       "Text2":"\nExplanation",
       "bold3":"bold",
       "bold4":"",
-      "Para2":"A Long Call Option is a basic strategy used by traders who expect the market to rise. It's often chosen by beginners.Being Long on a Call Option means you'll make a profit if the stock or index goes up. Your potential loss is limited if it falls.",
+      "Para2":"A Long Call Option is a basic strategy used by traders who expect the market to rise. It's often chosen by beginners.Being Long on a Call Option means you'll make a profit if the stock or index goes up. Your potential loss is limited if it falls.\n",
       "Text3":"Investor View: Bullish on the Stock/Index",
       "bold5":"bold",
       "bold6":"bold",
@@ -19,11 +19,11 @@
       "Text4":"Reward: Unlimited",
       "bold7":"bold",
       "bold8":"bold",
-      "Para4":"Breakeven: Strike Price + Premium Paid",
+      "Para4":"Breakeven: Strike Price + Premium Paid.\n",
       "Text5":"Note:-",
       "bold9":"bold",
       "bold10":"",
-      "Para5":"In the above chart, the breakeven happens the moment Nifty crosses 23100 and risk is limited to a maximum of 2500(calculated as Lot size * Premium Paid)\n\n"
+      "Para5":"In the above chart, the breakeven happens the moment Nifty crosses 23100 and risk is limited to a maximum of 2500(calculated as Lot size * Premium Paid).\n\n"
      },
      {
       "Id":"02",
