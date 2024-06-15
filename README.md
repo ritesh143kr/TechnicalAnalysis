@@ -10,6 +10,8 @@
 ![InvertedHammerCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/b8086343-4ff9-4e93-b967-8fcb0c9c401f)
 ![ShootingStarCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/db44824f-6977-4efb-95a8-f5158f848b40)
 
+#DoubleCandlestick
+
 
 
 
