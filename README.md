@@ -8,7 +8,8 @@
 ![HammerCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/8b1e16e8-b3e5-4fc1-b565-d50c214ca3ac)
 ![HangingManCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/5b8af707-b168-4c44-989e-b4e7e8734ef3)
 ![InvertedHammerCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/b8086343-4ff9-4e93-b967-8fcb0c9c401f)
-![ShootingStarCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/8d612532-20bb-4d60-9135-3d8cd8e43ca2)
+![ShootingStarCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/db44824f-6977-4efb-95a8-f5158f848b40)
+
 
 
 
