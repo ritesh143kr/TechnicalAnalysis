@@ -3,6 +3,7 @@
 ![Yellow Green Illustration Creative Portofolio Presentation  (7)](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/83d306b0-05dc-48f7-84c5-dda25c4d5a0e)
 ![Yellow Green Illustration Creative Portofolio Presentation  (9)](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/7b3ca019-f2d1-4993-b962-a6b158e737ec)
 ![Process Roadmap Diagram Infographic Graph (3)](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/6b399834-ca35-4b95-b218-15fd1d6e1669)
-![Candle1](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/263d20df-2151-4f3c-a67b-04a6c549052d)
+![HammerCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/8b1e16e8-b3e5-4fc1-b565-d50c214ca3ac)
+
 
 
