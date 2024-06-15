@@ -16,5 +16,6 @@
 ![TweezerBottomCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/0ace9c37-c617-4221-ae19-91d74ee5adb2)
 ![TweezerTopCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/298321a4-4093-4651-9ed6-7fbe7f0def5d)
 
+#TripleCandlestick
 
 
