@@ -4,6 +4,7 @@
 ![Yellow Green Illustration Creative Portofolio Presentation  (9)](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/7b3ca019-f2d1-4993-b962-a6b158e737ec)
 ![Process Roadmap Diagram Infographic Graph (3)](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/6b399834-ca35-4b95-b218-15fd1d6e1669)
 ![HammerCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/8b1e16e8-b3e5-4fc1-b565-d50c214ca3ac)
+![InvertedHammerCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/016f8fda-d3d4-44e3-8a54-16040e751edf)
 
 
 
