@@ -23,6 +23,8 @@
 ![BearishHaramiCrossCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/7d397834-5aed-4b6a-808e-2038b769f3b0)
 
 #TripleCandlestick
+![MorningStarCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/56f08156-dbf1-4f3b-bfac-53475aa641e5)
+![EveningStarCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/61ba53c9-e0fe-41b0-a756-bd85ddb7dc42)
 
 
 
