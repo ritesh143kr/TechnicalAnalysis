@@ -29,6 +29,7 @@
 #OptionStrategies
 ![BuyCallStrategies](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/fc811e03-93e9-4b91-bd80-189c11a8692d)
 ![BuyStraddleStrategy](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/63caecaa-e883-4d9b-8c2f-e6bf4ee3d585)
+![BuyStraddleStrategy](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/68ed1795-f420-4f81-8bd0-6361292ac4f3)
 
 
 
