@@ -31,16 +31,16 @@
       "Text1":"Introduction",
       "bold1":"bold",
       "bold2":"",
-      "Para1":"The Buy or Long Straddle strategy is non-directional and is used when large movements are expected in either direction i.e. Upside or Downside.\n\nThis strategy involves:-\nBuy a Call Option(ATM)\nBuy a Put Option(ATM)\n\nEnsure:-\nBoth the options belong to the same underlying.\nBoth the options belong to the same expiry.\nBelong to the same strike.",
+      "Para1":"The Buy or Long Straddle strategy is non-directional and is used when large movements are expected in either direction i.e. Upside or Downside.\n\nThis strategy involves:-\nBuy a Call Option(ATM)\nBuy a Put Option(ATM)\n\nEnsure:-\nBoth the options belong to the same underlying.\nBoth the options belong to the same expiry.\nBelong to the same strike.\n",
       "Image1":"https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/42d1c429-eedc-4866-9178-42bec0d01054",
-      "Text2":"\nProfits can be made in either direction if the underlying shows volatility to cover the cost of the trade. Loss is limited to the premium paid in buying the options.\n\nAll that the investor is looking out for, is the underlying to break out exponentially in either direction.\n",
+      "Text2":"\nWhen to use this strategy?\n1.Expecting some news which will result in wild move in either direction i.e. Upside or Downside.\n2.You are at major turning point into the market and volatility is low.\n",
       "bold3":"",
       "bold4":"bold",
       "Para2":"Illustration\n",
       "Text3":"Eg. Nifty is currently trading @23000. Long Straddle can be created by Buying Call and Put Option for Strike @23000 having premium of 65 and 35 respectively. Net outflow of premium is 100.\n",
       "bold5":"",
       "bold6":"",
-      "Para3":"Scenaria 1 - Market expires at 22500(put option makes money & call option loose the all premium)\n23000CE expire with 0(22500<=23000, for gain expiry should be more than 23000 + 65(23000CE @65premium)), we loose all premium i.e. -65*25(lot size) = -1625.\n2300PE expire with 465premium, we gain premium (23000-22500 = 500, 500 - 35(23000PE @35premium)=465 after adjusting premium) i.e. +465*25(lot size) = 11625.\nTotal payoff = -1625 + 11625=10000\n(we can also calculate by using Net outflow of premium, 65 + 35 = 100, Now 23000-22500 = 500, 500 - 100(Net outflow of premium) = 400*25(lot size) = 10000.\n",
+      "Para3":"Scenaria 1 - Market expires at 22500(put option makes money & call option loose the all premium)\n\n23000CE expire with 0(22500<=23000, for gain expiry should be more than 23000 + 65(23000CE @65premium)), we loose all premium i.e. -65*25(lot size) = -1625.\n\n2300PE expire with 465premium, we gain premium (23000-22500 = 500, 500 - 35(23000PE @35premium)=465 after adjusting premium) i.e. +465*25(lot size) = 11625.\n\nTotal payoff = -1625 + 11625=10000\n(we can also calculate by using Net outflow of premium, 65 + 35 = 100, Now 23000-22500 = 500, 500 - 100(Net outflow of premium) = 400*25(lot size) = 10000.\n\n",
       "Text4":"Scenaria 2 - Market expires at 23000(put option loose all the premium & call option loose the all premium)\n23000PE expire with 0(23000 = 23000, for gain expiry should be more than 23000 + 65(23000CE @65premium)), we loose all premium i.e. -65*25(lot size) = -1625.\n23000PE expire with 0(23000 = 23000, for gain expiry should be less than 23000 - 35(23000PE @35premium)), we loose all premium i.e. -35*25(lot size) = -875.\nTotal payoff = -1625 - 875 = -2500.\n(we can also calculate by using Net outflow of premium, 65 + 35 = 100, Now 23000-23000 = 0, 0 - 100(Net outflow of premium) = -100*25(lot size) = -2500.\n",
       "bold7":"",
       "bold8":"",
@@ -48,7 +48,7 @@
       "Text5":"Investor View: Neutral direction but expecting significant volatility in underlying movement.\n\nRisk: Limited to the premium paid.\n\nReward: Unlimited.\n\nLower Breakeven: Strike Price - net premium paid.\n\nHigher Breakeven: Strike Price + net premium paid.\n\nIn the above chart, the breakeven happens the moment Nifty crosses 22900 or 23100 and risk is limited to a maximum of 2500 (calculated as Lot size * Premium Paid).Here it is important to note that the premium is calculated as the sum of premium paid for the Call and Put option.\n",
       "bold9":"",
       "bold10":"",
-      "Para5":"When to use this strategy?\n1.Expecting some news which will result in wild move in either direction i.e. Upside or Downside.\n2.You are at major turning point into the market and volatility is low.\n\n"
+      "Para5":""
      },
      {
       "Id":"03",
