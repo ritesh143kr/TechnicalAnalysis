@@ -32,7 +32,7 @@
       "bold1":"bold",
       "bold2":"",
       "Para1":"The Buy or Long Straddle strategy is non-directional and is used when large movements are expected in either direction i.e. Upside or Downside.\n\nThis strategy involves:-\nBuy a Call Option(ATM)\nBuy a Put Option(ATM)\n\nEnsure:-\nBoth the options belong to the same underlying.\nBoth the options belong to the same expiry.\nBelong to the same strike.\n",
-      "Image1":"https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/d6577510-01bd-4cc7-b5ba-f3360a139122",
+      "Image1":"https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/1aacc0a8-728b-4834-9938-e582f0161f47",
       "Text2":"\nWhen to use this strategy?\n1.Expecting some news which will result in wild move in either direction i.e. Upside or Downside.\n\n2.You are at major turning point into the market and volatility is low.\n",
       "bold3":"",
       "bold4":"bold",
