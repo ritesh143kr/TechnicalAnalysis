@@ -25,12 +25,20 @@
 #TripleCandlestick
 ![MorningStarCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/56f08156-dbf1-4f3b-bfac-53475aa641e5)
 ![EveningStarCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/61ba53c9-e0fe-41b0-a756-bd85ddb7dc42)
+![ThreeOutsideUpCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/5995dabe-c3ff-4a50-909a-7ab76fe5f6fb)
+![ThreeOutsideDownCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/78657efc-9086-4553-a170-426f347f657b)
+![ThreeInsideUpCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/96df4153-b1e4-4710-acdf-26772657b7e2)
+![ThreeInsideDown](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/cee88b34-19ec-41a0-a625-32c56f8a2e3b)
+![ThreeWhiteSoldiersCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/56e4a098-7756-4b6b-9ccb-d6ffb869704c)
+![ThreeBlackCrowsCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/f454c0cb-1624-4e75-a614-32db93175b9d)
+
+
+
 
 #MultipleCandlestick
-![RisingThreeMethodsCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/a227327e-c605-44a8-a47b-074a07b0f5a8)
+
+![RisingThreeMethodsCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/a50ef032-4a4f-4197-8605-165a5bf5b5eb)
 ![FallingThreeMethodsCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/0d3386f6-909f-4034-a4a6-2532ca054f30)
-
-
 
 #OptionStrategies
 ![BuyCallStrategies](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/21d40c94-397f-4622-8ced-9f589084ee28)
