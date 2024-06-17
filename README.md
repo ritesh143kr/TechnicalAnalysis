@@ -36,7 +36,6 @@
 
 
 #MultipleCandlestick
-
 ![RisingThreeMethodsCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/a50ef032-4a4f-4197-8605-165a5bf5b5eb)
 ![FallingThreeMethodsCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/0d3386f6-909f-4034-a4a6-2532ca054f30)
 
