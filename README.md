@@ -27,9 +27,9 @@
 ![EveningStarCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/61ba53c9-e0fe-41b0-a756-bd85ddb7dc42)
 
 #OptionStrategies
-![BuyCallStrategies](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/fc811e03-93e9-4b91-bd80-189c11a8692d)
-![BuyStraddleStrategy](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/63caecaa-e883-4d9b-8c2f-e6bf4ee3d585)
-![BuyStraddleStrategy](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/68ed1795-f420-4f81-8bd0-6361292ac4f3)
+![BuyCallStrategies](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/ced0f67e-4ddc-43a1-820b-7ab15c96ad67)
+![BuyStraddleStrategy](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/929ea485-6950-4053-960b-a1bfe6bf5d74)
+
 
 
 
