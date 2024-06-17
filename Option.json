@@ -32,7 +32,7 @@
       "bold1":"bold",
       "bold2":"",
       "Para1":"The Buy or Long Straddle strategy is non-directional and is used when large movements are expected in either direction i.e. Upside or Downside.\n\nThis strategy involves:-\nBuy a Call Option(ATM)\nBuy a Put Option(ATM)\n\nEnsure:-\nBoth the options belong to the same underlying.\nBoth the options belong to the same expiry.\nBelong to the same strike.\n",
-      "Image1":"https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/42d1c429-eedc-4866-9178-42bec0d01054",
+      "Image1":"https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/63caecaa-e883-4d9b-8c2f-e6bf4ee3d585",
       "Text2":"\nWhen to use this strategy?\n1.Expecting some news which will result in wild move in either direction i.e. Upside or Downside.\n\n2.You are at major turning point into the market and volatility is low.\n",
       "bold3":"",
       "bold4":"bold",
@@ -48,7 +48,7 @@
       "Text5":"Investor View: Neutral direction but expecting significant volatility in underlying movement.\n\nRisk: Limited to the premium paid.\n\nReward: Unlimited.\n\nLower Breakeven: Strike Price - net premium paid.\n\nHigher Breakeven: Strike Price + net premium paid.\n",
       "bold9":"bold",
       "bold10":"",
-      "Para5":"\nIn the above chart, the breakeven happens the moment Nifty crosses 22900 or 23100 and risk is limited to a maximum of 2500 (calculated as Lot size * Premium Paid).Here it is important to note that the premium is calculated as the sum of premium paid for the Call and Put option.\n"
+      "Para5":"In the above chart, the breakeven happens the moment Nifty crosses 22900 or 23100 and risk is limited to a maximum of 2500 (calculated as Lot size * Premium Paid).Here it is important to note that the premium is calculated as the sum of premium paid for the Call and Put option.\n\n"
      },
      {
       "Id":"03",
