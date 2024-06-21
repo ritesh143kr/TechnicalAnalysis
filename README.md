@@ -42,6 +42,8 @@
 ![BullishConcealingBabySwallowCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/ded04808-4812-4529-a19a-575ebb851177)
 ![BullishBreakawayCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/8c20ea3a-10e4-46c5-a74e-0580f09ad204)
 ![BearishBreakawayCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/e7fc6534-f99d-4eb9-9ff9-96681802a3f3)
+![LadderBottomCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/28902699-dea4-4f56-a22a-7ca254a4c4cd)
+![LadderTopCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/21588e7b-d713-434f-bf2a-7a17602eaae5)
 
 
 #OptionStrategies
