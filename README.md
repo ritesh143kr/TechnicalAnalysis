@@ -46,6 +46,8 @@
 ![LadderTopCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/21588e7b-d713-434f-bf2a-7a17602eaae5)
 ![MatHoldBullishContinuationCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/2d19dc17-57cd-4529-a6e8-ae3f03b77ffb)
 ![MatHoldBearishContinuationCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/f8d03071-c66c-4ccf-aa80-81c43929e6f3)
+![ThreeLineStrikeBullishContinuationCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/5029ebcf-d745-45a5-9138-69fb443b2c30)
+![ThreeLineStrikeBearishContinuationCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/27920205-09fb-4823-a35d-cd523e89291a)
 
 
 #OptionStrategies
