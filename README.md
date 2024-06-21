@@ -38,6 +38,9 @@
 #MultipleCandlestick
 ![RisingThreeMethodsCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/a50ef032-4a4f-4197-8605-165a5bf5b5eb)
 ![FallingThreeMethodsCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/0d3386f6-909f-4034-a4a6-2532ca054f30)
+![BearishConcealingBabySwallowCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/66871b15-6145-407b-83ab-e250b28c23ea)
+![BullishConcealingBabySwallowCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/ded04808-4812-4529-a19a-575ebb851177)
+
 
 #OptionStrategies
 ![BuyCallStrategies](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/21d40c94-397f-4622-8ced-9f589084ee28)
