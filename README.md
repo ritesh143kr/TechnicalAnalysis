@@ -54,6 +54,9 @@
 ![BuyCallStrategies](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/21d40c94-397f-4622-8ced-9f589084ee28)
 ![BuyStraddleStrategy](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/1aacc0a8-728b-4834-9938-e582f0161f47)
 
+#ChartPattern
+![DoubleTopPattern](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/4db13e09-b2ac-43a1-ada9-5e8444deaa67)
+
 
 
 
