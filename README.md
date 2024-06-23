@@ -3,6 +3,10 @@
 ![Yellow Green Illustration Creative Portofolio Presentation  (7)](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/83d306b0-05dc-48f7-84c5-dda25c4d5a0e)
 ![Yellow Green Illustration Creative Portofolio Presentation  (9)](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/7b3ca019-f2d1-4993-b962-a6b158e737ec)
 ![Process Roadmap Diagram Infographic Graph (3)](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/6b399834-ca35-4b95-b218-15fd1d6e1669)
+![Yellow Green Illustration Creative Portofolio Presentation  (11)](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/069c080d-1c73-4575-9fd2-5555986cf042)
+![Yellow Green Illustration Creative Portofolio Presentation  (12)](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/672b247d-7bd0-497b-8416-e065e0191de9)
+![Yellow Green Illustration Creative Portofolio Presentation  (13)](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/aacd3a8e-dce0-441c-91b3-ad99b08f44f5)
+![Yellow Green Illustration Creative Portofolio Presentation  (14)](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/a6e0e915-f4d2-4038-a440-47d83d7415ad)
 
 #SingleCandlestick
 ![HammerCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/8b1e16e8-b3e5-4fc1-b565-d50c214ca3ac)
