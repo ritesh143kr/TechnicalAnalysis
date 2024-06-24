@@ -24,6 +24,8 @@
 ![BearishEngulfingCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/7e8069a4-895c-4771-a012-b2d018bbe636)
 ![BullishHaramiCrossCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/72a6608b-0292-4298-8fd6-71660e9723fe)
 ![BearishHaramiCrossCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/7d397834-5aed-4b6a-808e-2038b769f3b0)
+![BullishDojiStarCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/fa4d534b-7c7a-4607-be6a-509cfb5eea5c)
+![BearishDojiStarCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/0997d054-a649-441c-8a77-faae49a53fd2)
 
 #TripleCandlestick
 ![MorningStarCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/56f08156-dbf1-4f3b-bfac-53475aa641e5)
