@@ -55,6 +55,11 @@
 ![ThreeLineStrikeBearishContinuationCandlestick](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/27920205-09fb-4823-a35d-cd523e89291a)
 
 
+
+
+#ChartPattern
+![DoubleTopPattern](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/4a1f67dc-db77-41dc-b16d-77479721f6ca)
+
 #OptionStrategies
 ![BuyCallStrategies](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/21d40c94-397f-4622-8ced-9f589084ee28)
 ![BuyStraddleStrategy](https://github.com/ritesh143kr/TechnicalAnalysis/assets/127919799/1aacc0a8-728b-4834-9938-e582f0161f47)
